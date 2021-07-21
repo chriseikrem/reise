@@ -15,6 +15,7 @@
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "quasar": "^2.0.0",
+    "quasar-cli": "^0.17.26",
     "@quasar/app": "^3.0.0"
   },
   "devDependencies": {
